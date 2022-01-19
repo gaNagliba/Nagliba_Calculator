@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nagliba_Calculator</string>
+    <string name="Calculator">0.0</string>
+    <string name="Alpha">+</string>
+    <string name="Bravo">-</string>
+    <string name="Charlie">/</string>
+    <string name="Delta">*</string>
+    <string name="Eagle">=</string>
+    <string name="Hello">The Answer is</string>
+</resources>
