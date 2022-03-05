@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/Text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Hello"
@@ -17,7 +18,7 @@
         app:layout_constraintVertical_bias="0.977" />
 
     <EditText
-        android:id="@+id/editTextNumberDecimal"
+        android:id="@+id/Number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -32,7 +33,7 @@
         app:layout_constraintVertical_bias="0.067" />
 
     <EditText
-        android:id="@+id/editTextNumberDecimal2"
+        android:id="@+id/Number2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -47,7 +48,7 @@
         app:layout_constraintVertical_bias="0.293" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/Plus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Alpha"
@@ -59,7 +60,7 @@
         app:layout_constraintVertical_bias="0.771" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/Equals"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Eagle"
@@ -71,7 +72,7 @@
         app:layout_constraintVertical_bias="0.881" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/Minus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Bravo"
@@ -83,7 +84,7 @@
         app:layout_constraintVertical_bias="0.701" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/Divide"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Charlie"
@@ -95,7 +96,7 @@
         app:layout_constraintVertical_bias="0.631" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/Multiply"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Delta"
